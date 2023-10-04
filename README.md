@@ -44,7 +44,7 @@
   </a>
 
   <a href="https://reactjs.org/">
-    <img align="center" alt="React.js" height="40" width="50" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+    <img align="center" alt="React.js" height="40" width="50" src="[https://www.svgrepo.com/show/331760/sql-database-generic.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg)https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
   </a>
 
 
